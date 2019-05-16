@@ -8,10 +8,6 @@ The game (titled: Super Heckin' Boop) is a very quick to understand and easy to 
 
 Developers: Elijah Wilding, Nathan Coit, Sullivan Stobo, Harrison Lau and Zack Palantzas.  
 
-## Pictures
-
-Coming soon!
-
 ## Files
 
 In order to access the files for this project please go to this link (the group github for the project):  
