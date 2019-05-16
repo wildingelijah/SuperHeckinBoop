@@ -17,6 +17,8 @@ Coming soon!
 In order to access the files for this project please go to this link (the group github for the project):  
 [Project Files](https://github.com/NathanCoit/4GC3Final)
 
+If you would like to know more about the code or any other part of this project please feel free to ask me questions at: **elijahwilding@gmail.com**.
+
 ## Back
 
 [Back to main page of portfolio](https://wildingelijah.github.io/)
